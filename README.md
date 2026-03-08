@@ -52,7 +52,6 @@ I regularly practice data structures and algorithms to keep my problem-solving s
 
 ### 📊 GitHub Activity
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilkumar77&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilkumar77&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhilkumar77&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilkumar77&layout=compact&theme=radical)
