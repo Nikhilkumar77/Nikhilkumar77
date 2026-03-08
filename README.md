@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 I’m currently working as a remote Software Engineer.
+- 🔭 I’m currently actively seeking new opportunities as a **Java Full-Stack Software Engineer**.
 - 🌱 I focus on building robust, scalable applications using **Java, Spring, and SQL**.
 - 💡 I am highly passionate about problem-solving, algorithmic optimization, and clean code.
 - 📫 How to reach me: **[nikhilkumar.pr6@gmail.com]**
